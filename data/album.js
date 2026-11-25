@@ -21,7 +21,7 @@ window.album = {
         white: "#F5F5F5"     // texto "MICHAEL JACKSON"
     },
     description: "",
-    totalDuration: "",
+    totalDuration: "75:55",
     awards: [],
     technicalCredits: {},
     // CONFIRA a ordem, os títulos (versões/remixes) e os nomes dos arquivos de áudio.
